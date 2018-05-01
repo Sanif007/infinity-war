@@ -1,0 +1,10 @@
+# infinity-war
+Love for MCU
+
+To install infinity war file. Follow these steps.....
+• type pkg install git  in termux 
+• then type git clone and paste URL of this webpage
+• then type pkg install python
+• then type cd infinity-war 
+• then python infinity.py and then just type name of any marvel character in Infinity war. Like Groot, hulk, ironman, captain America, black panther etc. 
+• then it would show details of that character 
