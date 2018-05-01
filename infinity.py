@@ -1,5 +1,5 @@
-#Just for the fun馃榿
-#Feel free to upgrade the dictionary to inculde new information. And be kind enough to send me a link to the code馃槂
+#Just for the fun冒鸥藴聛
+#Feel free to upgrade the dictionary to inculde new information. And be kind enough to send me a link to the code冒鸥藴茠
 
 #When the prompt appears, input anything... The code will match it to any avenger if possible, and will give the output.
 
@@ -32,7 +32,7 @@ d = {
      "Groot" : "Sentient Tree",
      "Nebula" : "Adopted Cyborg daughter of Thanos",
      "Loki" : "God of mischief",
-     "Ninja" : "biggest fan of MCU 😜",
+     "Ninja" : "biggest fan of MCU",
      "Shuri" : "tech genius of wakanda"
  }
 try:
